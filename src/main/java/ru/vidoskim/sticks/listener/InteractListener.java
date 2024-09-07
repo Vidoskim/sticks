@@ -1,2 +1,4 @@
-package ru.vidoskim.sticks.listener;public class InteractListener {
+package ru.vidoskim.sticks.listener;
+
+public class InteractListener {
 }

@@ -1,0 +1,14 @@
+language:
+  commands:
+    # Эти сообщения не поддерживают что-то кроме legacy формата
+    invalid-args-count: '§cОшибка, неверное кол-во аргументов!'
+    only-for-players: '§cЭта команда только для игроков!'
+    player-not-found: '§cИгрок не найден.'
+
+    # Эти сообщения поддерживают только miniMessage (https://docs.advntr.dev/minimessage/format.html)
+    sticks:
+      change-on: '<green>Успешно включили sticks.'
+      change-off: '<red>Sticks отключены.'
+
+      on: '<green>Успешно включили sticks.'
+      off: '<red>Sticks отключены.'

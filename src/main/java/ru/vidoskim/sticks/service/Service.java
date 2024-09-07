@@ -1,2 +1,10 @@
-package ru.vidoskim.sticks.service;public interface Service {
+package ru.vidoskim.sticks.service;
+
+@SuppressWarnings("unused")
+public interface Service {
+    default void enable() {
+    }
+
+    default void disable() {
+    }
 }
