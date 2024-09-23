@@ -12,3 +12,10 @@ language:
 
       on: '<green>Успешно включили sticks.'
       off: '<red>Sticks отключены.'
+
+# Только MySQL
+mysql:
+  host: ''
+  database: ''
+  user: ''
+  pass: ''
